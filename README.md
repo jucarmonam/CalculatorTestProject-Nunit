@@ -1,0 +1,1 @@
+C:\Users\juan_carmona\Desktop\Training\NUnit.Console-3.16.2\bin\nunit3-console.exe C:\Users\juan_carmona\Desktop\Training\Calculator.Tests\Calculator.Tests\bin\Debug\net7.0\App.Tests.dll  --result="TestResult.html;transform=NUnitToHtml.xslt" --work=C:\Users\juan_carmona\Desktop\Training\Calculator.Tests\Calculator.Tests\testsResults
