@@ -8,10 +8,7 @@ This project contains unit tests for the `Calculator` library.
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running Tests](#running-tests)
-- [Test Coverage](#test-coverage)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 
 The `Calculator.Tests` project is responsible for testing the functionality of the `Calculator` library, ensuring that all calculations are accurate and that the library behaves as expected.
